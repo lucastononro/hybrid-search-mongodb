@@ -53,7 +53,7 @@ To set up your environment, create a `.env` file in the root directory with the 
 ATLAS_CONNECTION_STRING="mongodb+srv://<user>:<password>@<cluster>.mongodb.net/?authSource=admin"
 DB_NAME="test-vector-search"
 COLLECTION_NAME="rag"
-VECTOR_INDEX_NAME="liza_vector_search"
+VECTOR_INDEX_NAME="_vector_search"
 TEXT_INDEX_NAME="search_index"
 VECTOR_FIELD="embedding"
 TEXT_FIELD="text"
